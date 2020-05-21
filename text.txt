@@ -1,0 +1,1 @@
+Ce programme en python permet de dicter un texte à la vitesse souhaitée, pour pouvoir le réécrire sur papier. On peut alors recopier plus vite. Copiez ici un texte et lancez tts.py. 
